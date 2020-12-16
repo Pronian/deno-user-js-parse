@@ -1,0 +1,5 @@
+.vscode/settings.json
+*.properties
+*.csv
+# Input/output files/folders:
+user-js-css-*
